@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://otaeyooli.codegame.in/sitemap.xml
